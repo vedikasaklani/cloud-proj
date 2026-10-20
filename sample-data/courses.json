@@ -1,0 +1,21 @@
+[
+  {
+    "course_id": "cloud-101",
+    "title": "Cloud foundations",
+    "description": "Learn the building blocks behind reliable cloud applications.",
+    "lessons": [
+      {"lesson_id": "l1", "title": "What is the cloud?", "material_key": "materials/cloud-101/01-introduction.pdf"},
+      {"lesson_id": "l2", "title": "Regions and availability", "material_key": "materials/cloud-101/02-regions.pdf"},
+      {"lesson_id": "l3", "title": "Your first architecture", "material_key": "materials/cloud-101/03-architecture.pdf"}
+    ]
+  },
+  {
+    "course_id": "aws-serverless",
+    "title": "Serverless on AWS",
+    "description": "Connect API Gateway, Lambda, and DynamoDB into one useful system.",
+    "lessons": [
+      {"lesson_id": "l1", "title": "Functions with Lambda", "material_key": "materials/aws-serverless/01-lambda.pdf"},
+      {"lesson_id": "l2", "title": "HTTP APIs", "material_key": "materials/aws-serverless/02-api-gateway.pdf"}
+    ]
+  }
+]
